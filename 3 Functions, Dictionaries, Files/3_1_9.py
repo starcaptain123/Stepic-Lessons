@@ -9,4 +9,3 @@ def modify_list(l):
     while k != 0:
         l.remove("+")
         k -= 1
-
